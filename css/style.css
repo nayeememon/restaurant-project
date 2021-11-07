@@ -340,14 +340,14 @@ background-color: #F43127;
 }
 
 #categ{
-    background-image: url(/img/burger.jpg);background-position: center;background-size: cover;
+    background-image: url(img/burger.jpg);background-position: center;background-size: cover;
   
 }
 #categ2{
-    background-image: url(/img/drinks.jpg);background-position: center;background-size: cover;
+    background-image: url(img/drinks.jpg);background-position: center;background-size: cover;
 }
 #categ3{
-    background-image: url(/img/pizza.jpg);background-position: center;background-size: cover;
+    background-image: url(img/pizza.jpg);background-position: center;background-size: cover;
 }
 
 /* blogpost */
